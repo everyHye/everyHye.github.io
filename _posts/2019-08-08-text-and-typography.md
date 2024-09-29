@@ -18,7 +18,7 @@ image:
 
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
-# H1 — heading
+# H1 — heaeding
 {: .mt-4 .mb-0 }
 
 ## H2 — heading
